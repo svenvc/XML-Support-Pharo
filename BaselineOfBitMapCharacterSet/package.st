@@ -1,1 +1,1 @@
-Package { #name : #BaselineOfBitMapCharacterSet }
+Package { #name : #BaselineOfBitmapCharacterSet }

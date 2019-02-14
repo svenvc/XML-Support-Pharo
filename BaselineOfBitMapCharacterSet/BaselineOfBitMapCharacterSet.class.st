@@ -3,13 +3,13 @@ I am BaselineOfBitMapCharacterSet.
 I am a BaselineOf.
 "
 Class {
-	#name : #BaselineOfBitMapCharacterSet,
+	#name : #BaselineOfBitmapCharacterSet,
 	#superclass : #BaselineOf,
-	#category : #BaselineOfBitMapCharacterSet
+	#category : #BaselineOfBitmapCharacterSet
 }
 
 { #category : #baselines }
-BaselineOfBitMapCharacterSet >> baseline: spec [
+BaselineOfBitmapCharacterSet >> baseline: spec [
 	<baseline>
 	spec
 		for: #common
