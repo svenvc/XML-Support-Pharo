@@ -1,5 +1,4 @@
 # XML-Support-Pharo
-XML Support Pharo
 
 Experimental conversion of current XML Support for Pharo
 
@@ -7,10 +6,14 @@ Experimental conversion of current XML Support for Pharo
 
 ## Original Repositories
 
-- http://smalltalkhub.com/mc/PharoExtras/XMLParser/main/ - http://www.smalltalkhub.com/#!/~PharoExtras/XMLParser
-- http://smalltalkhub.com/mc/PharoExtras/XMLWriter/main/ - http://www.smalltalkhub.com/#!/~PharoExtras/XMLWriter
-- http://smalltalkhub.com/mc/PharoExtras/OrderPreservingDictionary/main/ - http://www.smalltalkhub.com/#!/~PharoExtras/OrderPreservingDictionary
-- http://smalltalkhub.com/mc/PharoExtras/BitmapCharacterSet/main/ - http://www.smalltalkhub.com/#!/~PharoExtras/BitmapCharacterSet
+- http://smalltalkhub.com/mc/PharoExtras/XMLParser/main/
+    - http://www.smalltalkhub.com/#!/~PharoExtras/XMLParser
+- http://smalltalkhub.com/mc/PharoExtras/XMLWriter/main/
+    - http://www.smalltalkhub.com/#!/~PharoExtras/XMLWriter
+- http://smalltalkhub.com/mc/PharoExtras/OrderPreservingDictionary/main/
+    - http://www.smalltalkhub.com/#!/~PharoExtras/OrderPreservingDictionary
+- http://smalltalkhub.com/mc/PharoExtras/BitmapCharacterSet/main/
+    - http://www.smalltalkhub.com/#!/~PharoExtras/BitmapCharacterSet
 
 ## Loading
 
