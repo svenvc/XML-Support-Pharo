@@ -3,6 +3,8 @@ XML Support Pharo
 
 Experimental conversion of current XML Support for Pharo
 
+[![Build Status](https://travis-ci.org/svenvc/XML-Support-Pharo.svg?branch=master)](https://travis-ci.org/svenvc/XML-Support-Pharo)
+
 ## Loading
 
 ```smalltalk
