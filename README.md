@@ -30,3 +30,7 @@ Metacello new
 spec baseline: 'XMLParser' with: [ spec repository: 'github://svenvc/XML-Support-Pharo' ].
 ```
 
+## Support Disclaimer
+
+This repository is NOT where development of XML Support for Pharo takes place, 
+please post any questions yoy might have to the Pharo mailing lists. 
